@@ -1,5 +1,5 @@
 # Page 13 of Implementing Derivatives Models (Clewlow, Strickland, 1998)
-# Implemented in Python 3.11 by Scott Griffin Jr., Univerity of Iowa, 2023
+# Implemented in Python3 by Scott Griffin Jr., University of Iowa, 2023
 
 import math
 
