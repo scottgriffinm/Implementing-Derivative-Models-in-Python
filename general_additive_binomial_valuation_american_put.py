@@ -42,10 +42,10 @@ def general_additive_binomial_valuation_american_put(K,T,S,sig,r,N):
     return C[0]
 
 # Textbook example
-K = 100
-T = 1
-S = 100
-sig = 0.2
-r = 0.06
-N = 3
-print(general_additive_binomial_valuation_american_put(K,T,S,sig,r,N))
+# K = 100
+# T = 1
+# S = 100
+# sig = 0.2
+# r = 0.06
+# N = 3
+# print(general_additive_binomial_valuation_american_put(K,T,S,sig,r,N))
